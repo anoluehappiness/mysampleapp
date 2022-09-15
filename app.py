@@ -238,5 +238,5 @@ for x_count in numbers:
 # print(matrix[0][1])
 
 
-
- 
+console = 'hello!'
+console.log('hello!')
